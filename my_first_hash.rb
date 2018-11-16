@@ -1,10 +1,10 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   your_hash= {
-    'February' => 2
-    'March' => 3
-    'December' => 12
-  }  
+    "February" => 2
+    "March" => 3
+    "December" => 12
+  }
 end
 
 
